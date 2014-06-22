@@ -1,0 +1,8 @@
+﻿<Application x:Class="DigitalClockPlugin.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Application.Resources>
+        <Image x:Key="icon_mediaSmall_clock" Source="Images/icon_mediaSmall_clock.png"></Image>
+        <Image x:Key="icon_mediaLarge_clock" Source="Images/icon_mediaLarge_clock.png"></Image>
+    </Application.Resources>
+</Application>
